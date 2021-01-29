@@ -1,0 +1,102 @@
+[
+{
+  "directory": "/home/hehehaha12138/Learning/hw2/cispba/build/partio-build/src/lib",
+  "command": "/usr/bin/g++-7  -DCISPBA_PLUGIN_DIR=\\\"/home/hehehaha12138/Learning/hw2/cispba/build/Plugins\\\" -I/home/hehehaha12138/Learning/hw2/cispba/src/lib  -fPIC -g -DEIGEN_INITIALIZE_MATRICES_BY_NAN  -Og   -Wextra -Wno-unused-parameter -std=gnu++14 -o CMakeFiles/partio.dir/io/BGEO.o -c /home/hehehaha12138/Learning/hw2/cispba/build/partio-src/src/lib/io/BGEO.cpp",
+  "file": "/home/hehehaha12138/Learning/hw2/cispba/build/partio-src/src/lib/io/BGEO.cpp"
+},
+{
+  "directory": "/home/hehehaha12138/Learning/hw2/cispba/build/partio-build/src/lib",
+  "command": "/usr/bin/g++-7  -DCISPBA_PLUGIN_DIR=\\\"/home/hehehaha12138/Learning/hw2/cispba/build/Plugins\\\" -I/home/hehehaha12138/Learning/hw2/cispba/src/lib  -fPIC -g -DEIGEN_INITIALIZE_MATRICES_BY_NAN  -Og   -Wextra -Wno-unused-parameter -std=gnu++14 -o CMakeFiles/partio.dir/io/BIN.o -c /home/hehehaha12138/Learning/hw2/cispba/build/partio-src/src/lib/io/BIN.cpp",
+  "file": "/home/hehehaha12138/Learning/hw2/cispba/build/partio-src/src/lib/io/BIN.cpp"
+},
+{
+  "directory": "/home/hehehaha12138/Learning/hw2/cispba/build/partio-build/src/lib",
+  "command": "/usr/bin/g++-7  -DCISPBA_PLUGIN_DIR=\\\"/home/hehehaha12138/Learning/hw2/cispba/build/Plugins\\\" -I/home/hehehaha12138/Learning/hw2/cispba/src/lib  -fPIC -g -DEIGEN_INITIALIZE_MATRICES_BY_NAN  -Og   -Wextra -Wno-unused-parameter -std=gnu++14 -o CMakeFiles/partio.dir/io/GEO.o -c /home/hehehaha12138/Learning/hw2/cispba/build/partio-src/src/lib/io/GEO.cpp",
+  "file": "/home/hehehaha12138/Learning/hw2/cispba/build/partio-src/src/lib/io/GEO.cpp"
+},
+{
+  "directory": "/home/hehehaha12138/Learning/hw2/cispba/build/partio-build/src/lib",
+  "command": "/usr/bin/g++-7  -DCISPBA_PLUGIN_DIR=\\\"/home/hehehaha12138/Learning/hw2/cispba/build/Plugins\\\" -I/home/hehehaha12138/Learning/hw2/cispba/src/lib  -fPIC -g -DEIGEN_INITIALIZE_MATRICES_BY_NAN  -Og   -Wextra -Wno-unused-parameter -std=gnu++14 -o CMakeFiles/partio.dir/io/MC.o -c /home/hehehaha12138/Learning/hw2/cispba/build/partio-src/src/lib/io/MC.cpp",
+  "file": "/home/hehehaha12138/Learning/hw2/cispba/build/partio-src/src/lib/io/MC.cpp"
+},
+{
+  "directory": "/home/hehehaha12138/Learning/hw2/cispba/build/partio-build/src/lib",
+  "command": "/usr/bin/g++-7  -DCISPBA_PLUGIN_DIR=\\\"/home/hehehaha12138/Learning/hw2/cispba/build/Plugins\\\" -I/home/hehehaha12138/Learning/hw2/cispba/src/lib  -fPIC -g -DEIGEN_INITIALIZE_MATRICES_BY_NAN  -Og   -Wextra -Wno-unused-parameter -std=gnu++14 -o CMakeFiles/partio.dir/io/PDA.o -c /home/hehehaha12138/Learning/hw2/cispba/build/partio-src/src/lib/io/PDA.cpp",
+  "file": "/home/hehehaha12138/Learning/hw2/cispba/build/partio-src/src/lib/io/PDA.cpp"
+},
+{
+  "directory": "/home/hehehaha12138/Learning/hw2/cispba/build/partio-build/src/lib",
+  "command": "/usr/bin/g++-7  -DCISPBA_PLUGIN_DIR=\\\"/home/hehehaha12138/Learning/hw2/cispba/build/Plugins\\\" -I/home/hehehaha12138/Learning/hw2/cispba/src/lib  -fPIC -g -DEIGEN_INITIALIZE_MATRICES_BY_NAN  -Og   -Wextra -Wno-unused-parameter -std=gnu++14 -o CMakeFiles/partio.dir/io/PDB.o -c /home/hehehaha12138/Learning/hw2/cispba/build/partio-src/src/lib/io/PDB.cpp",
+  "file": "/home/hehehaha12138/Learning/hw2/cispba/build/partio-src/src/lib/io/PDB.cpp"
+},
+{
+  "directory": "/home/hehehaha12138/Learning/hw2/cispba/build/partio-build/src/lib",
+  "command": "/usr/bin/g++-7  -DCISPBA_PLUGIN_DIR=\\\"/home/hehehaha12138/Learning/hw2/cispba/build/Plugins\\\" -I/home/hehehaha12138/Learning/hw2/cispba/src/lib  -fPIC -g -DEIGEN_INITIALIZE_MATRICES_BY_NAN  -Og   -Wextra -Wno-unused-parameter -std=gnu++14 -o CMakeFiles/partio.dir/io/PDC.o -c /home/hehehaha12138/Learning/hw2/cispba/build/partio-src/src/lib/io/PDC.cpp",
+  "file": "/home/hehehaha12138/Learning/hw2/cispba/build/partio-src/src/lib/io/PDC.cpp"
+},
+{
+  "directory": "/home/hehehaha12138/Learning/hw2/cispba/build/partio-build/src/lib",
+  "command": "/usr/bin/g++-7  -DCISPBA_PLUGIN_DIR=\\\"/home/hehehaha12138/Learning/hw2/cispba/build/Plugins\\\" -I/home/hehehaha12138/Learning/hw2/cispba/src/lib  -fPIC -g -DEIGEN_INITIALIZE_MATRICES_BY_NAN  -Og   -Wextra -Wno-unused-parameter -std=gnu++14 -o CMakeFiles/partio.dir/io/PTC.o -c /home/hehehaha12138/Learning/hw2/cispba/build/partio-src/src/lib/io/PTC.cpp",
+  "file": "/home/hehehaha12138/Learning/hw2/cispba/build/partio-src/src/lib/io/PTC.cpp"
+},
+{
+  "directory": "/home/hehehaha12138/Learning/hw2/cispba/build/partio-build/src/lib",
+  "command": "/usr/bin/g++-7  -DCISPBA_PLUGIN_DIR=\\\"/home/hehehaha12138/Learning/hw2/cispba/build/Plugins\\\" -I/home/hehehaha12138/Learning/hw2/cispba/src/lib  -fPIC -g -DEIGEN_INITIALIZE_MATRICES_BY_NAN  -Og   -Wextra -Wno-unused-parameter -std=gnu++14 -o CMakeFiles/partio.dir/io/PTS.o -c /home/hehehaha12138/Learning/hw2/cispba/build/partio-src/src/lib/io/PTS.cpp",
+  "file": "/home/hehehaha12138/Learning/hw2/cispba/build/partio-src/src/lib/io/PTS.cpp"
+},
+{
+  "directory": "/home/hehehaha12138/Learning/hw2/cispba/build/partio-build/src/lib",
+  "command": "/usr/bin/g++-7  -DCISPBA_PLUGIN_DIR=\\\"/home/hehehaha12138/Learning/hw2/cispba/build/Plugins\\\" -I/home/hehehaha12138/Learning/hw2/cispba/src/lib  -fPIC -g -DEIGEN_INITIALIZE_MATRICES_BY_NAN  -Og   -Wextra -Wno-unused-parameter -std=gnu++14 -o CMakeFiles/partio.dir/io/ParticleIO.o -c /home/hehehaha12138/Learning/hw2/cispba/build/partio-src/src/lib/io/ParticleIO.cpp",
+  "file": "/home/hehehaha12138/Learning/hw2/cispba/build/partio-src/src/lib/io/ParticleIO.cpp"
+},
+{
+  "directory": "/home/hehehaha12138/Learning/hw2/cispba/build/partio-build/src/lib",
+  "command": "/usr/bin/g++-7  -DCISPBA_PLUGIN_DIR=\\\"/home/hehehaha12138/Learning/hw2/cispba/build/Plugins\\\" -I/home/hehehaha12138/Learning/hw2/cispba/src/lib  -fPIC -g -DEIGEN_INITIALIZE_MATRICES_BY_NAN  -Og   -Wextra -Wno-unused-parameter -std=gnu++14 -o CMakeFiles/partio.dir/io/RIB.o -c /home/hehehaha12138/Learning/hw2/cispba/build/partio-src/src/lib/io/RIB.cpp",
+  "file": "/home/hehehaha12138/Learning/hw2/cispba/build/partio-src/src/lib/io/RIB.cpp"
+},
+{
+  "directory": "/home/hehehaha12138/Learning/hw2/cispba/build/partio-build/src/lib",
+  "command": "/usr/bin/g++-7  -DCISPBA_PLUGIN_DIR=\\\"/home/hehehaha12138/Learning/hw2/cispba/build/Plugins\\\" -I/home/hehehaha12138/Learning/hw2/cispba/src/lib  -fPIC -g -DEIGEN_INITIALIZE_MATRICES_BY_NAN  -Og   -Wextra -Wno-unused-parameter -std=gnu++14 -o CMakeFiles/partio.dir/io/ZIP.o -c /home/hehehaha12138/Learning/hw2/cispba/build/partio-src/src/lib/io/ZIP.cpp",
+  "file": "/home/hehehaha12138/Learning/hw2/cispba/build/partio-src/src/lib/io/ZIP.cpp"
+},
+{
+  "directory": "/home/hehehaha12138/Learning/hw2/cispba/build/partio-build/src/lib",
+  "command": "/usr/bin/g++-7  -DCISPBA_PLUGIN_DIR=\\\"/home/hehehaha12138/Learning/hw2/cispba/build/Plugins\\\" -I/home/hehehaha12138/Learning/hw2/cispba/src/lib  -fPIC -g -DEIGEN_INITIALIZE_MATRICES_BY_NAN  -Og   -Wextra -Wno-unused-parameter -std=gnu++14 -o CMakeFiles/partio.dir/core/Particle.o -c /home/hehehaha12138/Learning/hw2/cispba/build/partio-src/src/lib/core/Particle.cpp",
+  "file": "/home/hehehaha12138/Learning/hw2/cispba/build/partio-src/src/lib/core/Particle.cpp"
+},
+{
+  "directory": "/home/hehehaha12138/Learning/hw2/cispba/build/partio-build/src/lib",
+  "command": "/usr/bin/g++-7  -DCISPBA_PLUGIN_DIR=\\\"/home/hehehaha12138/Learning/hw2/cispba/build/Plugins\\\" -I/home/hehehaha12138/Learning/hw2/cispba/src/lib  -fPIC -g -DEIGEN_INITIALIZE_MATRICES_BY_NAN  -Og   -Wextra -Wno-unused-parameter -std=gnu++14 -o CMakeFiles/partio.dir/core/ParticleCaching.o -c /home/hehehaha12138/Learning/hw2/cispba/build/partio-src/src/lib/core/ParticleCaching.cpp",
+  "file": "/home/hehehaha12138/Learning/hw2/cispba/build/partio-src/src/lib/core/ParticleCaching.cpp"
+},
+{
+  "directory": "/home/hehehaha12138/Learning/hw2/cispba/build/partio-build/src/lib",
+  "command": "/usr/bin/g++-7  -DCISPBA_PLUGIN_DIR=\\\"/home/hehehaha12138/Learning/hw2/cispba/build/Plugins\\\" -I/home/hehehaha12138/Learning/hw2/cispba/src/lib  -fPIC -g -DEIGEN_INITIALIZE_MATRICES_BY_NAN  -Og   -Wextra -Wno-unused-parameter -std=gnu++14 -o CMakeFiles/partio.dir/core/ParticleHeaders.o -c /home/hehehaha12138/Learning/hw2/cispba/build/partio-src/src/lib/core/ParticleHeaders.cpp",
+  "file": "/home/hehehaha12138/Learning/hw2/cispba/build/partio-src/src/lib/core/ParticleHeaders.cpp"
+},
+{
+  "directory": "/home/hehehaha12138/Learning/hw2/cispba/build/partio-build/src/lib",
+  "command": "/usr/bin/g++-7  -DCISPBA_PLUGIN_DIR=\\\"/home/hehehaha12138/Learning/hw2/cispba/build/Plugins\\\" -I/home/hehehaha12138/Learning/hw2/cispba/src/lib  -fPIC -g -DEIGEN_INITIALIZE_MATRICES_BY_NAN  -Og   -Wextra -Wno-unused-parameter -std=gnu++14 -o CMakeFiles/partio.dir/core/ParticleSimple.o -c /home/hehehaha12138/Learning/hw2/cispba/build/partio-src/src/lib/core/ParticleSimple.cpp",
+  "file": "/home/hehehaha12138/Learning/hw2/cispba/build/partio-src/src/lib/core/ParticleSimple.cpp"
+},
+{
+  "directory": "/home/hehehaha12138/Learning/hw2/cispba/build/partio-build/src/lib",
+  "command": "/usr/bin/g++-7  -DCISPBA_PLUGIN_DIR=\\\"/home/hehehaha12138/Learning/hw2/cispba/build/Plugins\\\" -I/home/hehehaha12138/Learning/hw2/cispba/src/lib  -fPIC -g -DEIGEN_INITIALIZE_MATRICES_BY_NAN  -Og   -Wextra -Wno-unused-parameter -std=gnu++14 -o CMakeFiles/partio.dir/core/ParticleSimpleInterleave.o -c /home/hehehaha12138/Learning/hw2/cispba/build/partio-src/src/lib/core/ParticleSimpleInterleave.cpp",
+  "file": "/home/hehehaha12138/Learning/hw2/cispba/build/partio-src/src/lib/core/ParticleSimpleInterleave.cpp"
+},
+{
+  "directory": "/home/hehehaha12138/Learning/hw2/cispba/build/Projects/partio_example",
+  "command": "/usr/bin/g++-7  -DCISPBA_PLUGIN_DIR=\\\"/home/hehehaha12138/Learning/hw2/cispba/build/Plugins\\\" -isystem /home/hehehaha12138/Learning/hw2/cispba/build/partio-src/src/lib   -fPIC -Wall -Werror=all -Wextra -Wno-unused-parameter -Wcast-align -Wformat=2 -Winit-self -Wmissing-include-dirs -Woverloaded-virtual -Wredundant-decls -march=native -fno-math-errno -g -DEIGEN_INITIALIZE_MATRICES_BY_NAN  -Og   -std=gnu++14 -o CMakeFiles/partio_example.dir/main.cpp.o -c /home/hehehaha12138/Learning/hw2/cispba/Projects/partio_example/main.cpp",
+  "file": "/home/hehehaha12138/Learning/hw2/cispba/Projects/partio_example/main.cpp"
+},
+{
+  "directory": "/home/hehehaha12138/Learning/hw2/cispba/build/Projects/eigen_example",
+  "command": "/usr/bin/g++-7  -DCISPBA_PLUGIN_DIR=\\\"/home/hehehaha12138/Learning/hw2/cispba/build/Plugins\\\" -isystem /usr/include/eigen3   -fPIC -Wall -Werror=all -Wextra -Wno-unused-parameter -Wcast-align -Wformat=2 -Winit-self -Wmissing-include-dirs -Woverloaded-virtual -Wredundant-decls -march=native -fno-math-errno -g -DEIGEN_INITIALIZE_MATRICES_BY_NAN  -Og   -std=gnu++14 -o CMakeFiles/eigen_example.dir/main.cpp.o -c /home/hehehaha12138/Learning/hw2/cispba/Projects/eigen_example/main.cpp",
+  "file": "/home/hehehaha12138/Learning/hw2/cispba/Projects/eigen_example/main.cpp"
+},
+{
+  "directory": "/home/hehehaha12138/Learning/hw2/cispba/build/Projects/mass_spring",
+  "command": "/usr/bin/g++-7  -DCISPBA_PLUGIN_DIR=\\\"/home/hehehaha12138/Learning/hw2/cispba/build/Plugins\\\" -isystem /usr/include/eigen3   -fPIC -Wall -Werror=all -Wextra -Wno-unused-parameter -Wcast-align -Wformat=2 -Winit-self -Wmissing-include-dirs -Woverloaded-virtual -Wredundant-decls -march=native -fno-math-errno -g -DEIGEN_INITIALIZE_MATRICES_BY_NAN  -Og   -std=gnu++14 -o CMakeFiles/mass_spring.dir/main.cpp.o -c /home/hehehaha12138/Learning/hw2/cispba/Projects/mass_spring/main.cpp",
+  "file": "/home/hehehaha12138/Learning/hw2/cispba/Projects/mass_spring/main.cpp"
+}
+]

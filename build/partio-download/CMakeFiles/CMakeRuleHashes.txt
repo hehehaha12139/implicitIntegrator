@@ -1,0 +1,11 @@
+# Hashes of file build rules.
+96b1649c6029cfa79c2d1ebf5cfe6801 CMakeFiles/partio-download
+87907f3c4171fda7100bed76047ff21d CMakeFiles/partio-download-complete
+b1657393f786cbab368e555fc7214af0 partio-download-prefix/src/partio-download-stamp/partio-download-build
+3e4dd1d8c115aa3e03ea245df122dfe7 partio-download-prefix/src/partio-download-stamp/partio-download-configure
+526024a2d5cc9d981f130cff2fac0ac3 partio-download-prefix/src/partio-download-stamp/partio-download-download
+8faec821acd7bdf0c332a401adaad481 partio-download-prefix/src/partio-download-stamp/partio-download-install
+f1a2e05df9ee24bb0d2d50285208f740 partio-download-prefix/src/partio-download-stamp/partio-download-mkdir
+c65465554ee8f44013bb00048c7855ea partio-download-prefix/src/partio-download-stamp/partio-download-patch
+10528735b94291ea15cfb1c13eaf91e6 partio-download-prefix/src/partio-download-stamp/partio-download-skip-update
+c291d0afbdf164812d90d3f61514532d partio-download-prefix/src/partio-download-stamp/partio-download-test

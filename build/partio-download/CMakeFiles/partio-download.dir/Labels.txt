@@ -1,0 +1,14 @@
+# Target labels
+ partio-download
+# Source files and their labels
+/home/hehehaha12138/Learning/hw2/cispba/build/partio-download/CMakeFiles/partio-download
+/home/hehehaha12138/Learning/hw2/cispba/build/partio-download/CMakeFiles/partio-download.rule
+/home/hehehaha12138/Learning/hw2/cispba/build/partio-download/CMakeFiles/partio-download-complete.rule
+/home/hehehaha12138/Learning/hw2/cispba/build/partio-download/partio-download-prefix/src/partio-download-stamp/partio-download-install.rule
+/home/hehehaha12138/Learning/hw2/cispba/build/partio-download/partio-download-prefix/src/partio-download-stamp/partio-download-mkdir.rule
+/home/hehehaha12138/Learning/hw2/cispba/build/partio-download/partio-download-prefix/src/partio-download-stamp/partio-download-download.rule
+/home/hehehaha12138/Learning/hw2/cispba/build/partio-download/partio-download-prefix/src/partio-download-stamp/partio-download-patch.rule
+/home/hehehaha12138/Learning/hw2/cispba/build/partio-download/partio-download-prefix/src/partio-download-stamp/partio-download-configure.rule
+/home/hehehaha12138/Learning/hw2/cispba/build/partio-download/partio-download-prefix/src/partio-download-stamp/partio-download-build.rule
+/home/hehehaha12138/Learning/hw2/cispba/build/partio-download/partio-download-prefix/src/partio-download-stamp/partio-download-test.rule
+/home/hehehaha12138/Learning/hw2/cispba/build/partio-download/partio-download-prefix/src/partio-download-stamp/partio-download-skip-update.rule
